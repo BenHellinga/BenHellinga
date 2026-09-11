@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Ben
 
-<!--
-**BenHellinga/BenHellinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like taking on puzzle and optimization problems and building solvers for them — from Sudoku to niche browser games — usually in C# or C.
 
-Here are some ideas to get you started:
+**Currently poking at:**
+- [Horse-Encloser](https://github.com/BenHellinga/Horse-Encloser) — finding optimal wall placement to maximize enclosed score on enclose.horse puzzles (C# board parser + C solver)
+- [Symbolic-Calculator](https://github.com/BenHellinga/Symbolic-Calculator) — parses equations into expression trees, with a planned graph search over transformation rules to simplify/solve them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**A few other things I've built:**
+- [Smart-Sudoku-Solver](https://github.com/BenHellinga/Smart-Sudoku-Solver) — solves using real human sudoku techniques rather than brute-force backtracking
+- [Sudoku-Solver](https://github.com/BenHellinga/Sudoku-Solver) — an earlier, more straightforward solver
+- [Minesweeper-Bot](https://github.com/BenHellinga/Minesweeper-Bot) — auto-plays minesweeperonline.com
+- [PuzzleSolver](https://github.com/BenHellinga/PuzzleSolver)
